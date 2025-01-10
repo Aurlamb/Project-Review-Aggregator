@@ -66,25 +66,22 @@ The project integrates sentiment analysis, clustering, and natural language gene
 
 ### Demo 1: Kindle
 - **Child pitch:**  
-  "Mom, I really want this Kindle. It’s perfect for reading because it’s small, the screen is bright, and it’s easy to use. It will last forever because the battery lasts 3 days. My friend Emily has one, and my grandma says it’s like reading a paper book. Can we please get one?"
-
-<video src="https://github.com/Aurlamb/Project-Review-Aggregator/blob/main/Demos/iWanIt_demo_1.mp4?raw=true" controls width="600"></video>
+  "Mom, I really want this Kindle. It’s perfect for reading because it’s small, the screen is bright, and it’s easy to use. It will last forever because the battery lasts 3 days. My friend Emily has one, and my grandma says it’s like reading a paper book. Can we please get one?"  
+  [Watch the demo](https://docs.google.com/file/d/1Tctlbxfg4g66dvstB-cnN7ZaLsQPAvr4/preview)
 
 ---
 
 ### Demo 2: Paintball Gun
 - **Child pitch:**  
-  "Mom, can I please get this paintball gun? It's so realistic, it feels like a real gun, and it's perfect for my school project. My teacher said we can use it for a project, and I want to get it so I can be the best. Plus, I saw my friend Timmy's dad has one, and he said it's really good."
-
-<video src="https://github.com/Aurlamb/Project-Review-Aggregator/blob/main/Demos/iWanIt_demo_2.mp4?raw=true" controls width="600"></video>
+  "Mom, can I please get this paintball gun? It's so realistic, it feels like a real gun, and it's perfect for my school project. My teacher said we can use it for a project, and I want to get it so I can be the best. Plus, I saw my friend Timmy's dad has one, and he said it's really good."  
+  [Watch the demo](https://docs.google.com/file/d/1Th5X__8KmhMq2_PXstA_DJkVBjqt0A9_/preview)
 
 ---
 
 ### Demo 3: Amazon Tablet
 - **Child pitch:**  
-  "Mom, can we get one of those tablets? People say it’s easy to use. My friend Emma, she can learn new things and play games! Plus, it’s really lightweight and durable."
-
-<video src="https://github.com/Aurlamb/Project-Review-Aggregator/blob/main/Demos/iWanIt_demo_3.mp4?raw=true" controls width="600"></video>
+  "Mom, can we get one of those tablets? People say it’s easy to use. My friend Emma, she can learn new things and play games! Plus, it’s really lightweight and durable."  
+  [Watch the demo](https://docs.google.com/file/d/1TapSENX2lL90TFXG5SXRJw6IL714sMKl/preview)
 
 ---
 
